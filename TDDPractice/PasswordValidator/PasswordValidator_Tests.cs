@@ -1,5 +1,7 @@
 ﻿namespace TDDPractice.PasswordValidator
 {
+    // From https://tddmanifesto.com/exercises/
+
     [TestClass]
     public class PasswordValidator_Tests
     {
